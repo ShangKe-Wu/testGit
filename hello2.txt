@@ -9,3 +9,4 @@ hello git, hello wsk!
 hello git, hello wsk!
 hello git, hello wsk!
 hello git, hello wsk! master test
+hello git, hello wsk! hot-fix test
